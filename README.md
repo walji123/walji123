@@ -9,6 +9,7 @@ I'm an Honors student and senior at Coker University pursuing a BS in Data Analy
 - **Programming:** Python, SQL
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Tools:** Jupyter Notebook, VS Code, Git, GitHub, Linux, Google Colab
+- **Currently Learning**: R and machine learning
 
 ---
 
