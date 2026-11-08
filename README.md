@@ -40,7 +40,7 @@ I'm an Honors student and senior at Coker University pursuing a BS in Data Analy
 
 ---
 
-## 📈 Activity & Profile Insights
+## Activity & Profile Insights
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=walji123&label=Profile%20Views&color=ff007f&style=flat-square" alt="Walji's Profile Views" />
