@@ -45,7 +45,7 @@ I'm an Honors student and senior at Coker University pursuing a BS in Data Analy
 - **LinkedIn:** [linkedin.com/in/waljidadem](https://www.linkedin.com/in/waljidadem)
 - **Google Scholar:** [Walji Dadem](https://scholar.google.com/citations?user=jHLaOWIAAAAJ&hl=en)
 - **ORCID:** [0009-0009-5937-1037](https://orcid.org/0009-0009-5937-1037)
-- **Email:** [waljidadem@gmail.com](mailto:waljidadem@gmail.com)
+
 
 ---
 
