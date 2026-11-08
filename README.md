@@ -43,14 +43,14 @@ I'm an Honors student and senior at Coker University pursuing a BS in Data Analy
 ## Activity & Contribution Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walji123&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Walji's GitHub Stats" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walji123&theme=radical&hide_border=true" alt="Walji's GitHub Streak" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=walji123&show_icons=true&theme=radical&hide_border=true" alt="Walji's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walji123&theme=radical&hide_border=true" alt="Walji's GitHub Streak" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walji123&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" alt="Walji's Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walji123&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Walji's Top Languages" height="140" />
 </div>
 
 ---
