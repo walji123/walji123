@@ -40,17 +40,16 @@ I'm an Honors student and senior at Coker University pursuing a BS in Data Analy
 
 ---
 
-## Activity & Contribution Stats
+## 📈 Activity & Profile Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walji123&show_icons=true&theme=radical&hide_border=true" alt="Walji's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walji123&theme=radical&hide_border=true" alt="Walji's GitHub Streak" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=walji123&label=Profile%20Views&color=ff007f&style=flat-square" alt="Walji's Profile Views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walji123&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Walji's Top Languages" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walji123&theme=radical&hide_border=true" alt="Walji's GitHub Streak" />
 </div>
 
 ---
